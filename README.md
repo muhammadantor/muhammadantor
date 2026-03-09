@@ -49,5 +49,7 @@ My goal is to help businesses automate repetitive tasks so they can focus on gro
 ## 📫 Connect With Me
 
 GitHub: https://github.com/muhammadantor
+Linkedin: www.linkedin.com/in/muhammad-antor
+Facebook: https://www.facebook.com/automateiq.labs/
 
 Location: Bangladesh 🇧🇩
