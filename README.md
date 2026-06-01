@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-antor)
 [![Facebook](https://img.shields.io/badge/AutomateIQ_Labs-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/automateiq.labs/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/automateiq.labs/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](muhammadantor71@gmail.com)
+[![Gmail](https://img.shields.io/badge/muhammadantor71%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=muhammadantor71@gmail.com)
 
 <br/>
 
@@ -23,20 +23,19 @@
 ## 🧑‍💻 About Me
 
 ```python
-automation_engineer = {
-    "name"     : "Muhammad Antor",
-    "role"     : "AI Automation Engineer",
-    "brand"    : "AutomateIQ Labs",
-    "location" : "Bangladesh 🇧🇩",
-    "focus"    : ["n8n Workflow Automation", "Python Automation", "AI-Powered Business Tools"],
-    "mission"  : "Help businesses eliminate manual work using AI + Automation",
-    "available": True  # Open for freelance projects ✅
+about_me = {
+    "name"    : "Muhammad Antor",
+    "role"    : "AI Automation Engineer",
+    "brand"   : "AutomateIQ Labs 🇧🇩",
+    "focus"   : ["n8n", "Python", "AI APIs"],
+    "mission" : "Automate manual work → save business time",
+    "status"  : "Open for freelance ✅"
 }
 ```
 
-I build **smart automation systems** that connect tools, process data, and run business tasks on autopilot — so teams can focus on growth instead of repetitive work.
+I build **smart automation systems** using **n8n**, **AI APIs**, and **Python** — helping businesses run on autopilot so teams focus on growth, not repetitive tasks.
 
-> 🎯 Specialized in **n8n workflows**, **AI API integrations**, and **Python automation tools** for startups and digital agencies.
+> 🎯 Specialized in **n8n workflows**, **AI API integrations**, and **Python automation** for startups and agencies.
 
 ---
 
@@ -73,20 +72,13 @@ I build **smart automation systems** that connect tools, process data, and run b
 
 ## 📂 Featured Projects
 
-### 🔥 n8n AI Automation Workflows
-
-| Project | Description | Tools | Demo |
-|---------|-------------|-------|------|
-| [🤖 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | Automatically reads, analyzes, categorizes & responds to emails — zero manual effort | n8n · Gmail API · AI · Airtable | [▶ Watch Demo](YOUR_VIDEO_LINK_HERE) |
-| [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | AI-powered feedback analysis that detects complaints and auto-sends smart responses | n8n · AI Analysis · Auto-Reply | [▶ Watch Demo](YOUR_VIDEO_LINK_HERE) |
-| [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | Collects daily business data, generates AI summaries, and sends automated email reports | n8n · AI · Email Automation | [▶ Watch Demo](YOUR_VIDEO_LINK_HERE) |
-
-### 🐍 Python Automation Tools
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Professional CSV auditing engine with dynamic column detection & automated error logging for large-scale transaction data | Python · Pandas · CSV |
-| [📷 QR Code Generator from CSV](https://github.com/muhammadantor/qr-code-generator-from-csv) | Bulk QR code generator — reads URLs from CSV and generates QR codes automatically | Python · qrcode |
+| # | Project | Type | Description | Stack | Demo |
+|---|---------|------|-------------|-------|------|
+| 1 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure desktop password manager with AES encryption & master password protection | Python · Encryption · Tkinter | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_cybersecurity-passwordmanager-encryption-activity-7462487274266451968-otJh) |
+| 2 | [🤖 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails with zero manual effort | n8n · Gmail API · AI · Airtable | — |
+| 3 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints from feedback, analyzes sentiment & sends smart auto-replies | n8n · AI · Auto-Reply | — |
+| 4 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine with dynamic column detection & automated error logging | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 5 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — reads from CSV and auto-generates QR codes at scale | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
 
 ---
 
@@ -131,7 +123,7 @@ I'm always open to discussing **automation projects**, **freelance work**, or ju
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-antor)
 [![Facebook](https://img.shields.io/badge/AutomateIQ_Labs-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/automateiq.labs/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](muhammadantor71@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=muhammadantor71@gmail.com)
 
 <br/>
 
