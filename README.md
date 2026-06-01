@@ -82,6 +82,21 @@ I build **smart automation systems** using **n8n**, **AI APIs**, and **Python** 
 
 ---
 
+
+## 🎬 Project Demo Videos
+
+> 💡 Watch real builds in action — automation workflows, Python tools, and AI systems.
+
+| # | Project Demo | Platform | Watch |
+|---|-------------|----------|-------|
+| 1 | 🔐 VaultIQ — Password Manager App | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_cybersecurity-passwordmanager-encryption-activity-7462487274266451968-otJh) |
+| 2 | ⚙️ Sales Entry Automation (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
+| 3 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 4 | 📷 QR Code Generator from CSV | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+| 5 | 🛒 Sales Entry Custom Automation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1CxQVAejgd/) |
+
+---
+
 ## 💼 What I Can Build For You
 
 ```
