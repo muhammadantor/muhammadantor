@@ -20,17 +20,44 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
-about_me = {
-    "name"    : "Muhammad Antor",
-    "role"    : "AI Automation Engineer",
-    "brand"   : "AutomateIQ Labs 🇧🇩",
-    "focus"   : ["n8n", "Python", "AI APIs"],
-    "mission" : "Automate manual work → save business time",
-    "status"  : "Open for freelance ✅"
-}
+class MuhammadAntor:
+    name       = "Muhammad Antor"
+    role       = "AI Automation Engineer"
+    brand      = "AutomateIQ Labs ⚡"
+    location   = "Bangladesh 🇧🇩"
+
+    skills     = ["n8n", "Python", "AI APIs",
+                  "Make.com", "REST APIs"]
+
+    mission    = "Automate manual work → save business time"
+    status     = "Open for Freelance ✅"
+
+    def greet(self):
+        return "Let's automate your business! 🚀"
+```
+
+<br>
+
+🔥 **যা আমি করি:**
+
+| 🤖 AI Automation | 🔗 Integrations | 📊 Data Processing |
+|:---:|:---:|:---:|
+| n8n Workflows | REST API + Webhooks | CSV Audit & Reports |
+| AI Email Bot | CRM Integration | Lead Gen Pipeline |
+| Make.com Flows | 1000+ App Connect | Customer Feedback AI |
+
+<br>
+
+> 💡 *"I don't just write code — I build systems that work while you sleep."*
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&width=500&lines=AI+Automation+Engineer+%F0%9F%A4%96;n8n+%7C+Python+%7C+Make.com+Expert+%F0%9F%94%A5;Building+Smart+Business+Systems+%F0%9F%9A%80;Open+for+Freelance+Projects+%E2%9C%85)
 ```
 
 I build **smart automation systems** using **n8n**, **AI APIs**, and **Python** — helping businesses run on autopilot so teams focus on growth, not repetitive tasks.
