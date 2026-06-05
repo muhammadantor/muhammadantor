@@ -117,14 +117,14 @@ I build **smart automation systems** using **n8n**, **AI APIs**, and **Python** 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadantor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Antor's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadantor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadantor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadantor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=muhammadantor&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=muhammadantor&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
