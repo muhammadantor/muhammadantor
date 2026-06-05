@@ -131,10 +131,9 @@ I build **smart automation systems** using **n8n**, **AI APIs**, and **Python** 
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=muhammadantor&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadantor&theme=tokyonight&utcOffset=6" width="60%" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
