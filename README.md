@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Antor&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%2B%20Python&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Antor&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%2B%20Python%20%7C%20AutomateIQ%20Labs&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+Automation+Engineer+%F0%9F%A4%96;n8n+Workflow+Specialist+%E2%9A%99%EF%B8%8F;Python+Automation+Builder+%F0%9F%90%8D;Saving+Businesses+20%2B+Hours%2FWeek+%E2%8F%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=AI+Automation+Engineer+%F0%9F%A4%96;n8n+Workflow+Specialist+%E2%9A%99%EF%B8%8F;Python+Automation+Builder+%F0%9F%90%8D;Custom+Software+Developer+%F0%9F%9B%A0%EF%B8%8F;Building+AI+Systems+That+Work+While+You+Sleep+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,10 +26,12 @@
 
 **Muhammad Antor** — AI Automation Engineer & Founder of **AutomateIQ Labs ⚡**
 
-- 🤖 I build **smart automation systems** using n8n, AI APIs & Python
+- 🤖 I build **AI-powered automation systems** using n8n, Python & AI APIs
 - 🎯 Helping businesses **eliminate manual tasks** & run on autopilot
-- 🌍 Based in **Bangladesh** — working with clients worldwide
-- 💼 Specialized in **n8n workflows**, AI integrations & Make.com
+- 🌍 Based in **Bangladesh** — building solutions for global problems
+- 💼 Specialized in **n8n workflows**, AI agents, custom software & Make.com
+- 🔐 Creator of **VaultIQ** — offline desktop password manager (Windows)
+- 🤖 Creator of **AI Facebook Messenger Bot** — 24/7 multilingual customer support
 - ✅ Currently **Open for Freelance Projects**
 
 <br>
@@ -38,17 +40,14 @@
 
 <br>
 
-🔥 **যা আমি করি:**
+🔥 **What I Do:**
 
-| 🤖 AI Automation | 🔗 Integrations | 📊 Data Processing |
+| 🤖 AI Automation | 🔗 Integrations | 📊 Data & Software |
 |:---:|:---:|:---:|
 | n8n Workflows | REST API + Webhooks | CSV Audit & Reports |
-| AI Email Bot | CRM Integration | Lead Gen Pipeline |
-| Make.com Flows | 1000+ App Connect | Customer Feedback AI |
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&width=500&lines=AI+Automation+Engineer+%F0%9F%A4%96;n8n+%7C+Python+%7C+Make.com+Expert+%F0%9F%94%A5;Building+Smart+Business+Systems+%F0%9F%9A%80;Open+for+Freelance+Projects+%E2%9C%85)
+| AI Messenger Bot | Gmail API + Airtable | Desktop App Dev |
+| AI Email Agent | Google Sheets API | Lead Gen Pipeline |
+| Customer Feedback AI | 1000+ App Connect | Custom Python Tools |
 
 ---
 
@@ -73,12 +72,15 @@
 ![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Facebook API](https://img.shields.io/badge/Facebook_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Webhook](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Data & Tools
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -87,39 +89,67 @@
 
 | # | Project | Type | Description | Stack | Demo |
 |---|---------|------|-------------|-------|------|
-| 1 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure desktop password manager with AES encryption & master password protection | Python · Encryption · Tkinter | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_cybersecurity-passwordmanager-encryption-activity-7462487274266451968-otJh) |
-| 2 | [🤖 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails with zero manual effort | n8n · Gmail API · AI · Airtable | — |
-| 3 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints from feedback, analyzes sentiment & sends smart auto-replies | n8n · AI · Auto-Reply | — |
-| 4 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine with dynamic column detection & automated error logging | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
-| 5 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — reads from CSV and auto-generates QR codes at scale | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+| 1 | [🤖 AI Facebook Messenger Bot](https://github.com/muhammadantor/ai-facebook-messenger-bot-n8n) | n8n + AI | 24/7 multilingual customer support bot — dual AI brain (Gemini + Groq), auto language detection, human escalation | n8n · Gemini · Groq · Facebook API | [▶ Live](https://www.facebook.com/share/v/18gFQ4jTcj/) · [▶ Overview](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 2 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
+| 3 | [📸 AI Sales Entry Agent](https://github.com/muhammadantor/ai-sales-entry-agent) | n8n + AI | Photo of handwritten memo → Telegram → 15 sec → Google Sheets. 3-layer AI reads handwriting automatically | n8n · Gemini · Telegram API · Google Sheets | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
+| 4 | [📧 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails — processes attachments, zero manual effort | n8n · Gmail API · AI · Airtable | — |
+| 5 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints, analyzes sentiment & sends smart auto-replies automatically | n8n · AI · Auto-Reply | — |
+| 6 | [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | n8n + AI | Collects data daily, generates AI summaries & emails reports every morning automatically | n8n · AI · Email Automation | — |
+| 7 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 8 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — feed a CSV, get hundreds of QR codes instantly | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
 
 ---
 
-
 ## 🎬 Project Demo Videos
 
-> 💡 Watch real builds in action — automation workflows, Python tools, and AI systems.
+> 💡 Watch real builds in action — AI bots, automation workflows & Python tools.
 
 | # | Project Demo | Platform | Watch |
 |---|-------------|----------|-------|
-| 1 | 🔐 VaultIQ — Password Manager App | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_cybersecurity-passwordmanager-encryption-activity-7462487274266451968-otJh) |
-| 2 | ⚙️ Sales Entry Automation (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
-| 3 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
-| 4 | 📷 QR Code Generator from CSV | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
-| 5 | 🛒 Sales Entry Custom Automation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1CxQVAejgd/) |
+| 1 | 🤖 AI Messenger Bot — Live in Action | Facebook | [▶ Watch](https://www.facebook.com/share/v/18gFQ4jTcj/) |
+| 2 | 🤖 AI Messenger Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 3 | 🔐 VaultIQ — Live App Overview | Facebook | [▶ Watch](https://www.facebook.com/share/v/1CET1xauBM/) |
+| 4 | 📸 AI Sales Entry Agent (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
+| 5 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 6 | 📷 QR Code Generator from CSV | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+
+---
+
+## 🚀 Upcoming Projects
+
+> Currently in active development — shipping soon.
+
+| # | Project | Description | Status |
+|---|---------|-------------|--------|
+| 1 | 🎙️ **Typly** — Voice Typing Tool | Speak in Bangla or English — it types for you. No keyboard needed. | 🔨 Building |
+| 2 | 📨 **Universal Email Automation Agent** | One agent handles all email types — customer, promotional, collaboration | 🔨 Building |
+| 3 | 🏥 **Doctor Appointment System** | Full clinic automation — doctor controls via phone, patients self-book, zero receptionist | 🔨 Building |
+| 4 | 🎬 **YouTube Content Bot** | Analyzes viral videos & trending docs, generates targeted content ideas for creators | 🔨 Building |
+
+---
+
+## 💡 On The Drawing Board
+
+> Ideas being designed and planned.
+
+- 🗄️ **Self-Hosted Database System** — Replace Google Drive, Docs & Sheets with a fully self-hosted solution. Plug any AI agent into it directly.
+- ⚡ **Messenger Bot SaaS** — Add your knowledge base → agent handles all customer messages. Fully self-hosted.
+- 📬 **Email Automation SaaS** — Credentials + knowledge base → self-hosted email agent. Zero third-party dependency.
+- 🌐 **AI Browser Agent** — Controls a browser exactly like a human. Logs in, researches, fills forms — fully autonomous & self-hosted.
 
 ---
 
 ## 💼 What I Can Build For You
 
 ```
-✅ n8n Workflow Automation      →  Connect your tools, eliminate manual tasks
-✅ AI Email Automation          →  Auto-read, categorize & respond to emails
-✅ Lead Generation Pipeline     →  Scraping + AI enrichment + CRM integration
-✅ Customer Feedback System     →  AI-powered analysis + automated responses
-✅ Data Processing Automation   →  CSV auditing, transformation & reporting
-✅ Make.com Workflows           →  Visual automation between 1000+ apps
-✅ Custom API Integrations      →  Connect any tools via REST API + Webhooks
+✅ AI Messenger Bot              →  24/7 multilingual customer support on autopilot
+✅ n8n Workflow Automation       →  Connect your tools, eliminate manual tasks
+✅ AI Email Automation           →  Auto-read, categorize & respond to all emails
+✅ Custom Desktop Apps           →  Secure, offline Python apps for your business
+✅ Lead Generation Pipeline      →  Scraping + AI enrichment + CRM integration
+✅ Customer Feedback System      →  AI-powered analysis + automated responses
+✅ Data Processing Automation    →  CSV auditing, transformation & reporting
+✅ Custom API Integrations       →  Connect any tools via REST API + Webhooks
 ```
 
 > 📩 **Available for freelance projects** — [Send me an email](mailto:muhammadantor71@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammad-antor)
@@ -147,13 +177,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadantor&theme=tokyonight&utcOffset=6" width="60%" />
 
 </div>
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to discussing **automation projects**, **freelance work**, or just talking about AI and automation.
+I'm always open to discussing **AI automation projects**, **freelance work**, or just talking about AI and automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-antor)
 [![Facebook](https://img.shields.io/badge/AutomateIQ_Labs-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/automateiq.labs/)
@@ -164,3 +195,5 @@ I'm always open to discussing **automation projects**, **freelance work**, or ju
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!-- Keywords for discoverability: AI Automation Engineer Bangladesh, n8n workflow automation, Python automation developer, AI email responder, Facebook Messenger bot n8n, custom software developer Bangladesh, AI agent developer, business automation specialist, AutomateIQ Labs, workflow automation freelancer -->
