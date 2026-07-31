@@ -74,6 +74,7 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Facebook API](https://img.shields.io/badge/Facebook_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Webhook](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
 
@@ -92,11 +93,12 @@
 | 1 | [🤖 AI Facebook Messenger Bot](https://github.com/muhammadantor/ai-facebook-messenger-bot-n8n) | n8n + AI | 24/7 multilingual customer support bot — dual AI brain (Gemini + Groq), auto language detection, human escalation | n8n · Gemini · Groq · Facebook API | [▶ Live](https://www.facebook.com/share/v/18gFQ4jTcj/) · [▶ Overview](https://www.facebook.com/share/v/18vfuh9VTL/) |
 | 2 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
 | 3 | [📸 AI Sales Entry Agent](https://github.com/muhammadantor/ai-sales-entry-agent) | n8n + AI | Photo of handwritten memo → Telegram → 15 sec → Google Sheets. 3-layer AI reads handwriting automatically | n8n · Gemini · Telegram API · Google Sheets | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
-| 4 | [📧 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails — processes attachments, zero manual effort | n8n · Gmail API · AI · Airtable | — |
-| 5 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints, analyzes sentiment & sends smart auto-replies automatically | n8n · AI · Auto-Reply | — |
-| 6 | [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | n8n + AI | Collects data daily, generates AI summaries & emails reports every morning automatically | n8n · AI · Email Automation | — |
-| 7 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
-| 8 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — feed a CSV, get hundreds of QR codes instantly | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+| 4 | [📧 Universal Email Agent](https://github.com/muhammadantor/universal-email-agent-n8n) | n8n + AI | Production-grade email agent — 46 nodes, dual-AI, OCR, sentiment detection, prompt injection protection & confidence-based auto-replies | n8n · Gemini · Groq · Gmail API · Google Sheets | — |
+| 5 | [📬 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails — processes attachments, zero manual effort | n8n · Gmail API · AI · Airtable | — |
+| 6 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints, analyzes sentiment & sends smart auto-replies automatically | n8n · AI · Auto-Reply | — |
+| 7 | [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | n8n + AI | Collects data daily, generates AI summaries & emails reports every morning automatically | n8n · AI · Email Automation | — |
+| 8 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 9 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — feed a CSV, get hundreds of QR codes instantly | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
 
 ---
 
@@ -125,6 +127,9 @@
 | 2 | 📨 **Universal Email Automation Agent** | One agent handles all email types — customer, promotional, collaboration | 🔨 Building |
 | 3 | 🏥 **Doctor Appointment System** | Full clinic automation — doctor controls via phone, patients self-book, zero receptionist | 🔨 Building |
 | 4 | 🎬 **YouTube Content Bot** | Analyzes viral videos & trending docs, generates targeted content ideas for creators | 🔨 Building |
+| 5 | 🍽️ **AI Restaurant Management System** | Full restaurant automation — digital menu, order management, kitchen alerts, billing & daily sales reports. Zero paper, zero manual entry. | 🔨 Building |
+| 6 | 📲 **AI Telegram Business Bot** | Intelligent Telegram bot for businesses — handles customer queries, order tracking, support tickets & admin alerts. Available 24/7. | 🔨 Building |
+| 7 | 💬 **AI WhatsApp Business Bot** | AI-powered WhatsApp automation — auto-replies to customers, qualifies leads, sends follow-ups & notifies the team in real time. | 🔨 Building |
 
 ---
 
@@ -196,4 +201,4 @@ I'm always open to discussing **AI automation projects**, **freelance work**, or
 
 </div>
 
-<!-- Keywords for discoverability: AI Automation Engineer Bangladesh, n8n workflow automation, Python automation developer, AI email responder, Facebook Messenger bot n8n, custom software developer Bangladesh, AI agent developer, business automation specialist, AutomateIQ Labs, workflow automation freelancer -->
+<!-- Keywords for discoverability: AI Automation Engineer Bangladesh, n8n workflow automation, Python automation developer, AI email responder, Facebook Messenger bot n8n, WhatsApp business bot, Telegram business bot, restaurant management system AI, custom software developer Bangladesh, AI agent developer, business automation specialist, AutomateIQ Labs, workflow automation freelancer -->
