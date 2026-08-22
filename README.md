@@ -67,6 +67,7 @@
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter_API-00B0FF?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ### 🔗 Integrations & APIs
 ![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
@@ -77,6 +78,12 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Webhook](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🗄️ Data & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -102,6 +109,19 @@
 
 ---
 
+## 📚 Technical Setup Guides
+
+> In-depth, production-grade documentation — cloud infrastructure & official API integrations, written the way I actually deploy them for clients.
+
+| # | Guide | Description | Stack |
+|---|---------|-------------|-------|
+| 1 | [☁️ AWS Self-Hosted LLM Setup Guide](https://github.com/muhammadantor/aws-self-hosted-llm-setup-guide) | Complete guide to self-hosting a local LLM on AWS EC2 — chat interface, voice output, permanent HTTPS | AWS EC2 · Ollama · gemma4:e4b · Open WebUI · Edge-TTS |
+| 2 | [⚙️ AWS Self-Hosted n8n Setup Guide](https://github.com/muhammadantor/aws-self-hosted-n8n-setup-guide) | Full n8n automation server on AWS EC2 — Redis, Elastic IP, dual HTTPS options, auto-start, backup | AWS EC2 · n8n · Redis · Docker · Nginx · Certbot |
+| 3 | [💬 Meta Messenger API & Webhook Setup Guide](https://github.com/muhammadantor/meta-messenger-api-webhook-setup-guide) | Official, Meta-compliant guide to connecting a Facebook Page to n8n via Messenger Platform API | Meta Graph API · n8n · Webhooks |
+| 4 | [📲 WhatsApp Cloud API & Webhook Setup Guide](https://github.com/muhammadantor/whatsapp-cloud-api-webhook-setup-guide) | Official, Meta-compliant guide to WhatsApp Cloud API — phone registration, permanent tokens, going Live | WhatsApp Cloud API · n8n · Webhooks |
+
+---
+
 ## 🎬 Project Demo Videos
 
 > 💡 Watch real builds in action — AI bots, automation workflows & Python tools.
@@ -124,12 +144,11 @@
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 1 | 🎙️ **Typly** — Voice Typing Tool | Speak in Bangla or English — it types for you. No keyboard needed. | 🔨 Building |
-| 2 | 📨 **Universal Email Automation Agent** | One agent handles all email types — customer, promotional, collaboration | 🔨 Building |
-| 3 | 🏥 **Doctor Appointment System** | Full clinic automation — doctor controls via phone, patients self-book, zero receptionist | 🔨 Building |
-| 4 | 🎬 **YouTube Content Bot** | Analyzes viral videos & trending docs, generates targeted content ideas for creators | 🔨 Building |
-| 5 | 🍽️ **AI Restaurant Management System** | Full restaurant automation — digital menu, order management, kitchen alerts, billing & daily sales reports. Zero paper, zero manual entry. | 🔨 Building |
-| 6 | 📲 **AI Telegram Business Bot** | Intelligent Telegram bot for businesses — handles customer queries, order tracking, support tickets & admin alerts. Available 24/7. | 🔨 Building |
-| 7 | 💬 **AI WhatsApp Business Bot** | AI-powered WhatsApp automation — auto-replies to customers, qualifies leads, sends follow-ups & notifies the team in real time. | 🔨 Building |
+| 2 | 🏥 **Doctor Appointment System** | Full clinic automation — doctor controls via phone, patients self-book, zero receptionist | 🔨 Building |
+| 3 | 🎬 **YouTube Content Bot** | Analyzes viral videos & trending docs, generates targeted content ideas for creators | 🔨 Building |
+| 4 | 🍽️ **AI Restaurant Management System** | Full restaurant automation — digital menu, order management, kitchen alerts, billing & daily sales reports. Zero paper, zero manual entry. | 🔨 Building |
+| 5 | 📲 **AI Telegram Business Bot** | Intelligent Telegram bot for businesses — handles customer queries, order tracking, support tickets & admin alerts. Available 24/7. | 🔨 Building |
+| 6 | 💬 **AI WhatsApp Business Bot** | AI-powered WhatsApp automation — auto-replies to customers, qualifies leads, sends follow-ups & notifies the team in real time. | 🔨 Building |
 
 ---
 
@@ -155,6 +174,7 @@
 ✅ Customer Feedback System      →  AI-powered analysis + automated responses
 ✅ Data Processing Automation    →  CSV auditing, transformation & reporting
 ✅ Custom API Integrations       →  Connect any tools via REST API + Webhooks
+✅ Cloud Infrastructure Setup    →  Self-hosted AI/automation servers on AWS
 ```
 
 > 📩 **Available for freelance projects** — [Send me an email](mailto:muhammadantor71@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammad-antor)
@@ -201,4 +221,4 @@ I'm always open to discussing **AI automation projects**, **freelance work**, or
 
 </div>
 
-<!-- Keywords for discoverability: AI Automation Engineer Bangladesh, n8n workflow automation, Python automation developer, AI email responder, Facebook Messenger bot n8n, WhatsApp business bot, Telegram business bot, restaurant management system AI, custom software developer Bangladesh, AI agent developer, business automation specialist, AutomateIQ Labs, workflow automation freelancer -->
+<!-- Keywords for discoverability: AI Automation Engineer Bangladesh, n8n workflow automation, Python automation developer, AI email responder, Facebook Messenger bot n8n, WhatsApp business bot, Telegram business bot, restaurant management system AI, custom software developer Bangladesh, AI agent developer, business automation specialist, AutomateIQ Labs, workflow automation freelancer, AWS self-hosted LLM, AWS self-hosted n8n, Meta Messenger API setup, WhatsApp Cloud API setup, self-hosted AI infrastructure -->
