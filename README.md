@@ -98,14 +98,15 @@
 | # | Project | Type | Description | Stack | Demo |
 |---|---------|------|-------------|-------|------|
 | 1 | [🤖 AI Facebook Messenger Bot](https://github.com/muhammadantor/ai-facebook-messenger-bot-n8n) | n8n + AI | 24/7 multilingual customer support bot — dual AI brain (Gemini + Groq), auto language detection, human escalation | n8n · Gemini · Groq · Facebook API | [▶ Live](https://www.facebook.com/share/v/18gFQ4jTcj/) · [▶ Overview](https://www.facebook.com/share/v/18vfuh9VTL/) |
-| 2 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
-| 3 | [📸 AI Sales Entry Agent](https://github.com/muhammadantor/ai-sales-entry-agent) | n8n + AI | Photo of handwritten memo → Telegram → 15 sec → Google Sheets. 3-layer AI reads handwriting automatically | n8n · Gemini · Telegram API · Google Sheets | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
-| 4 | [📧 Universal Email Agent](https://github.com/muhammadantor/universal-email-agent-n8n) | n8n + AI | Production-grade email agent — 46 nodes, dual-AI, OCR, sentiment detection, prompt injection protection & confidence-based auto-replies | n8n · Gemini · Groq · Gmail API · Google Sheets | — |
-| 5 | [📬 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails — processes attachments, zero manual effort | n8n · Gmail API · AI · Airtable | — |
-| 6 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints, analyzes sentiment & sends smart auto-replies automatically | n8n · AI · Auto-Reply | — |
-| 7 | [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | n8n + AI | Collects data daily, generates AI summaries & emails reports every morning automatically | n8n · AI · Email Automation | — |
-| 8 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
-| 9 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — feed a CSV, get hundreds of QR codes instantly | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+| 2 | [📲 AI WhatsApp Business Bot](https://github.com/muhammadantor/ai-whatsapp-business-bot-n8n) | n8n + AI | Production WhatsApp automation — dual-AI fallback core (Gemini + Groq), multi-modal (text/voice/image), self-healing reliability layer | n8n · Gemini · Groq · WhatsApp Cloud API | — |
+| 3 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
+| 4 | [📸 AI Sales Entry Agent](https://github.com/muhammadantor/ai-sales-entry-agent) | n8n + AI | Photo of handwritten memo → Telegram → 15 sec → Google Sheets. 3-layer AI reads handwriting automatically | n8n · Gemini · Telegram API · Google Sheets | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
+| 5 | [📧 Universal Email Agent](https://github.com/muhammadantor/universal-email-agent-n8n) | n8n + AI | Production-grade email agent — 46 nodes, dual-AI, OCR, sentiment detection, prompt injection protection & confidence-based auto-replies | n8n · Gemini · Groq · Gmail API · Google Sheets | [▶ Explanation](https://www.facebook.com/share/v/1JAQSxqaDF/) |
+| 6 | [📬 AI Email Responder Agent](https://github.com/muhammadantor/ai-email-responder-agent-n8n) | n8n + AI | Reads, categorizes & auto-responds to emails — processes attachments, zero manual effort | n8n · Gmail API · AI · Airtable | — |
+| 7 | [💬 Customer Feedback Automation](https://github.com/muhammadantor/customer-feedback-automation) | n8n + AI | Detects complaints, analyzes sentiment & sends smart auto-replies automatically | n8n · AI · Auto-Reply | — |
+| 8 | [📊 Daily Data Reporter AI](https://github.com/muhammadantor/daily-data-reporter-ai) | n8n + AI | Collects data daily, generates AI summaries & emails reports every morning automatically | n8n · AI · Email Automation | — |
+| 9 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 10 | [📷 QR Code Generator](https://github.com/muhammadantor/qr-code-generator-from-csv) | Python Tool | Bulk QR code generator — feed a CSV, get hundreds of QR codes instantly | Python · qrcode · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
 
 ---
 
@@ -131,9 +132,10 @@
 | 1 | 🤖 AI Messenger Bot — Live in Action | Facebook | [▶ Watch](https://www.facebook.com/share/v/18gFQ4jTcj/) |
 | 2 | 🤖 AI Messenger Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/18vfuh9VTL/) |
 | 3 | 🔐 VaultIQ — Live App Overview | Facebook | [▶ Watch](https://www.facebook.com/share/v/1CET1xauBM/) |
-| 4 | 📸 AI Sales Entry Agent (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
-| 5 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
-| 6 | 📷 QR Code Generator from CSV | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
+| 4 | 📧 Universal Email Agent — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1JAQSxqaDF/) |
+| 5 | 📸 AI Sales Entry Agent (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
+| 6 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
+| 7 | 📷 QR Code Generator from CSV | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-pythonprojects-automation-activity-7436387980719710209-EdLo) |
 
 ---
 
@@ -148,7 +150,6 @@
 | 3 | 🎬 **YouTube Content Bot** | Analyzes viral videos & trending docs, generates targeted content ideas for creators | 🔨 Building |
 | 4 | 🍽️ **AI Restaurant Management System** | Full restaurant automation — digital menu, order management, kitchen alerts, billing & daily sales reports. Zero paper, zero manual entry. | 🔨 Building |
 | 5 | 📲 **AI Telegram Business Bot** | Intelligent Telegram bot for businesses — handles customer queries, order tracking, support tickets & admin alerts. Available 24/7. | 🔨 Building |
-| 6 | 💬 **AI WhatsApp Business Bot** | AI-powered WhatsApp automation — auto-replies to customers, qualifies leads, sends follow-ups & notifies the team in real time. | 🔨 Building |
 
 ---
 
@@ -167,6 +168,7 @@
 
 ```
 ✅ AI Messenger Bot              →  24/7 multilingual customer support on autopilot
+✅ AI WhatsApp Business Bot      →  Multi-modal, self-healing WhatsApp automation
 ✅ n8n Workflow Automation       →  Connect your tools, eliminate manual tasks
 ✅ AI Email Automation           →  Auto-read, categorize & respond to all emails
 ✅ Custom Desktop Apps           →  Secure, offline Python apps for your business
