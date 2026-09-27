@@ -95,12 +95,12 @@
 
 | # | Project | Type | Description | Stack | Demo |
 |---|---------|------|-------------|-------|------|
-| 1 | [📧 Universal Email Agent](https://github.com/muhammadantor/universal-email-agent-n8n) | n8n + AI | Production-grade email agent — 46 nodes, dual-AI, OCR, sentiment detection, prompt injection protection & confidence-based auto-replies | n8n · Gemini · Groq · Gmail API · Google Sheets | [▶ Explanation](https://www.facebook.com/share/v/1JAQSxqaDF/) |
-| 2 | [📲 AI WhatsApp Business Bot](https://github.com/muhammadantor/ai-whatsapp-business-bot-n8n) | n8n + AI | Production WhatsApp automation — dual-AI fallback core (Gemini + Groq), multi-modal (text/voice/image), self-healing reliability layer | n8n · Gemini · Groq · WhatsApp Cloud API | [▶ Explanation](https://www.facebook.com/share/v/1GpkZp4Wyz/) |
-| 3 | [🤖 AI Facebook Messenger Bot](https://github.com/muhammadantor/ai-facebook-messenger-bot-n8n) | n8n + AI | 24/7 multilingual customer support bot — dual AI brain (Gemini + Groq), auto language detection, human escalation | n8n · Gemini · Groq · Facebook API | [▶ Live](https://www.facebook.com/share/v/18gFQ4jTcj/) · [▶ Overview](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 1 | [📲 AI WhatsApp Business Bot](https://github.com/muhammadantor/ai-whatsapp-business-bot-n8n) | n8n + AI | Production WhatsApp automation — dual-AI fallback core (Gemini + Groq), multi-modal (text/voice/image), self-healing reliability layer | n8n · Gemini · Groq · WhatsApp Cloud API | [▶ Explanation](https://www.facebook.com/share/v/1GpkZp4Wyz/) |
+| 2 | [🤖 AI Facebook Messenger Bot](https://github.com/muhammadantor/ai-facebook-messenger-bot-n8n) | n8n + AI | 24/7 multilingual customer support bot — dual AI brain (Gemini + Groq), auto language detection, human escalation | n8n · Gemini · Groq · Facebook API | [▶ Live](https://www.facebook.com/share/v/18gFQ4jTcj/) · [▶ Overview](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 3 | [🎙️ Typly](https://github.com/muhammadantor/typly-bangla-voice-typing) | Python App | AI-powered Bangla & English voice-typing tool for Windows — hotkey-activated, AI-enhanced transcription, hardware-locked licensing | Python · AI Transcription · Windows | — |
 | 4 | [📲 AI Telegram Business Bot](https://github.com/muhammadantor/ai-telegram-business-bot-n8n) | n8n + AI | Production Telegram automation — dual-AI fallback core, multi-modal (text/voice/image), prompt-injection screening, self-healing reliability layer | n8n · Gemini · Groq · Telegram Bot API | — |
-| 5 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
-| 6 | [🎙️ Typly](https://github.com/muhammadantor/typly-bangla-voice-typing) | Python App | AI-powered Bangla & English voice-typing tool for Windows — hotkey-activated, AI-enhanced transcription, hardware-locked licensing | Python · AI Transcription · Windows | — |
+| 5 | [📧 Universal Email Agent](https://github.com/muhammadantor/universal-email-agent-n8n) | n8n + AI | Production-grade email agent — 46 nodes, dual-AI, OCR, sentiment detection, prompt injection protection & confidence-based auto-replies | n8n · Gemini · Groq · Gmail API · Google Sheets | [▶ Explanation](https://www.facebook.com/share/v/1JAQSxqaDF/) |
+| 6 | [🔐 VaultIQ](https://github.com/muhammadantor/VaultIQ) | Python App | Secure offline desktop password manager — AES-256 encryption, master password, 100% local storage | Python · Tkinter · AES Encryption | [▶ Demo](https://www.facebook.com/share/v/1CET1xauBM/) |
 | 7 | [📸 AI Sales Entry Agent](https://github.com/muhammadantor/ai-sales-entry-agent) | n8n + AI | Photo of handwritten memo → Telegram → 15 sec → Google Sheets. 3-layer AI reads handwriting automatically | n8n · Gemini · Telegram API · Google Sheets | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
 | 8 | [🔍 Universal Data Auditor](https://github.com/muhammadantor/universal-data-auditor) | Python Tool | CSV auditing engine — dynamic column detection, business-rule validation & error logging at scale | Python · Pandas · CSV | [▶ Demo](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
 
@@ -151,10 +151,10 @@
 
 | # | Project Demo | Platform | Watch |
 |---|-------------|----------|-------|
-| 1 | 📧 Universal Email Agent — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1JAQSxqaDF/) |
-| 2 | 📲 AI WhatsApp Business Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1GpkZp4Wyz/) |
-| 3 | 🤖 AI Messenger Bot — Live in Action | Facebook | [▶ Watch](https://www.facebook.com/share/v/18gFQ4jTcj/) |
-| 4 | 🤖 AI Messenger Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 1 | 📲 AI WhatsApp Business Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1GpkZp4Wyz/) |
+| 2 | 🤖 AI Messenger Bot — Live in Action | Facebook | [▶ Watch](https://www.facebook.com/share/v/18gFQ4jTcj/) |
+| 3 | 🤖 AI Messenger Bot — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/18vfuh9VTL/) |
+| 4 | 📧 Universal Email Agent — Full System Explanation | Facebook | [▶ Watch](https://www.facebook.com/share/v/1JAQSxqaDF/) |
 | 5 | 🔐 VaultIQ — Live App Overview | Facebook | [▶ Watch](https://www.facebook.com/share/v/1CET1xauBM/) |
 | 6 | 📸 AI Sales Entry Agent (n8n) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_aiautomation-n8n-workflowautomation-activity-7458891293738385408-JneF) |
 | 7 | 🔍 Universal Data Auditor (Python) | LinkedIn | [▶ Watch](https://www.linkedin.com/posts/muhammad-antor_python-automation-dataengineering-activity-7442588092441452545-UMGB) |
